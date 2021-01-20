@@ -1,0 +1,15 @@
+.Home {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 30px;
+}
+
+.Play {
+   margin-left: 42%;
+   font-size: 20px;
+   color: rgb(18, 113, 18);
+
+}
+

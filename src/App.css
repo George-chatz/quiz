@@ -1,0 +1,15 @@
+* {
+    background-color:#add8e6;
+}
+
+
+.Navbar {
+    display: flex;
+    justify-content: center;
+    padding-top:5%;
+
+}
+.Home0 {
+    padding-right: 10px;
+    
+}
