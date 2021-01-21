@@ -2,10 +2,10 @@ import React from "react";
 import "./App.css"
 import {
   BrowserRouter as Router, Switch, Route, Link} from "react-router-dom";
-import Home from "./Pages/Home.js"
-import "./Pages/Home.css"
-import Quiz from "./Pages/Quiz.js"
-import "./Pages/Quiz.css"
+import Home from "./Pages/Home/Home.js"
+import "./Pages/Home/Home.css"
+import Quiz from "./Pages/Quiz/Quiz.js"
+import "./Pages/Quiz/Quiz.css"
 
 
 export default function App() {
@@ -26,6 +26,8 @@ export default function App() {
     </Router>
   );
 }
+
+
 
 
 
